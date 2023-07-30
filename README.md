@@ -4,7 +4,7 @@ Hi, I'm Sofia
 Frontend Developer
 ------------------
 
-My passion is web development because it combines analytical thinking, creative problem solving and constant challenges. Now to face new challenges I continue to expand my knowledge in HTML, CSS, JavaScript,React and other technologies.
+My passion is web development because it combines analytical thinking, creative problem solving and constant challenges. Now to face new challenges I continue to expand my knowledge in HTML, CSS, JavaScript, React and other technologies.
 
 * ✉️  You can contact me at [sofy.torresv@gmail.com](mailto:sofy.torresv@gmail.com)
 
