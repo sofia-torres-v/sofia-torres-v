@@ -4,7 +4,7 @@ Hi, I'm Sofia
 Frontend Developer
 ------------------
 
-My passion is web development because it combines analytical thinking, creative problem solving and constant challenges. Now to face new challenges I continue to expand my knowledge in HTML, CSS, JavaScript, React and other technologies.
+👩‍💻 I am a Frontend Web Developer, passionate about visual design and fascinated with CSS. I have experience in creating attractive, functional and responsive websites. My skills include: React, JavaScript, CSS, Material UI, Figma, WordPress and Shopify.
 
 * ✉️  You can contact me at [sofy.torresv@gmail.com](mailto:sofy.torresv@gmail.com)
 
