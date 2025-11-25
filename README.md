@@ -5,7 +5,7 @@
 
 ## Frontend Developer | AWS Enthusiast
 
-Desarrolladora frontend enfocada en diseño responsive. Trabajo con React, TypeScript y Tailwind CSS, y tengo experiencia práctica en backend serverless con AWS. Me caracterizo por mi atención al detalle y mi capacidad para trabajar en equipo.
+Desarrolladora frontend enfocada en diseño responsive. Trabajo con React, TypeScript y Tailwind CSS, y tengo experiencia práctica en backend serverless con AWS. Me caracterizo por mi capacidad para trabajar en equipo y adaptarme rápidamente a entornos ágiles y colaborativos.
 
 🌱 Explorando arquitecturas serverless  
 💼 Abierta a nuevas oportunidades  
@@ -39,18 +39,11 @@ Desarrolladora frontend enfocada en diseño responsive. Trabajo con React, TypeS
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofia-torres)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofia-torres-v-front-end-developer/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sofy.torresv@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react&logoColor=white)](https://tu-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react&logoColor=white)](https://portfolio-sofiatorresvs-projects.vercel.app/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sofia-torres-v)
 
 ---
 
-## 📊 GitHub Stats
-
-![Sofia's GitHub stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
-
----
-
-⭐️ From [tu-usuario](https://github.com/tu-usuario)
+⭐️ From [sofia-torres-v](https://github.com/sofia-torres-v)
