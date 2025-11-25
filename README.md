@@ -45,5 +45,3 @@ Desarrolladora frontend enfocada en diseño responsive. Trabajo con React, TypeS
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sofia-torres-v)
 
 ---
-
-⭐️ From [sofia-torres-v](https://github.com/sofia-torres-v)
