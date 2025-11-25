@@ -5,7 +5,7 @@
 
 ## Frontend Developer | AWS Enthusiast
 
-Desarrolladora frontend enfocada en diseño responsive. Trabajo con React, TypeScript y Tailwind CSS, y tengo experiencia práctica en backend serverless con AWS. Me caracterizo por mi capacidad para trabajar en equipo y adaptarme rápidamente a entornos ágiles y colaborativos.
+Desarrolladora frontend enfocada en diseño responsive. Trabajo con React, TypeScript y Tailwind CSS, y tengo experiencia práctica en backend serverless con AWS. Me caracterizo por mi atención al detalle y mi capacidad para trabajar en equipo.
 
 🌱 Explorando arquitecturas serverless  
 💼 Abierta a nuevas oportunidades  
