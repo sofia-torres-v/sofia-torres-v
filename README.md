@@ -5,9 +5,9 @@
 
 ## AWS Cloud Engineer | Amazon Connect Specialist
 
-Especializada en soluciones conversacionales e IA Generativa utilizando Amazon Connect, Amazon Bedrock, Amazon Lex y AWS Lambda. Experiencia desarrollando arquitecturas serverless y proyectos reales para automatización de atención al cliente y experiencias inteligentes en AWS.
+AWS Cloud Engineer con experiencia práctica en arquitecturas serverless e IA Generativa en AWS. Desarrollé soluciones conversacionales con Amazon Connect, Bedrock y Lex para un cliente real del sector automotriz (KIA Chile). Certificada AWS con dominio de Lambda, DynamoDB, CloudFormation y SAM. En crecimiento activo hacia migraciones y modernización cloud.
 
-📍 Lima, Perú
+📍 Lima, Perú  
 🚀 Abierta a oportunidades Cloud & AWS
 
 ---
@@ -15,24 +15,25 @@ Especializada en soluciones conversacionales e IA Generativa utilizando Amazon C
 ## 🛠️ Stack Tecnológico
 
 **☁️ AWS & Cloud**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Amazon Connect](https://img.shields.io/badge/-Amazon_Connect-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/-AWS_Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
+![API Gateway](https://img.shields.io/badge/-API_Gateway-FF4F8B?style=flat&logo=amazon-aws&logoColor=white)
+![S3](https://img.shields.io/badge/-Amazon_S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
+![AWS SAM](https://img.shields.io/badge/-AWS_SAM-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/-CloudFormation-FF4F8B?style=flat&logo=amazon-aws&logoColor=white)
 
 **🤖 Generative AI**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Lambda](https://img.shields.io/badge/-AWS_Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/-Amazon_Bedrock-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Amazon Lex](https://img.shields.io/badge/-Amazon_Lex-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-6DB33F?style=flat&logo=amazondynamodb&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-8A2BE2?style=flat&logo=openai&logoColor=white)
 
 **💻 Development**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
 
@@ -41,5 +42,3 @@ Especializada en soluciones conversacionales e IA Generativa utilizando Amazon C
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofia-torres-v-front-end-developer/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sofy.torresv@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sofia-torres-v)
-
----
