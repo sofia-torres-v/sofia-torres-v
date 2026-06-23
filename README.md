@@ -15,7 +15,7 @@ Combino IA generativa, arquitecturas serverless y diseño centrado en el usuario
 
 ## 🛠️ Stack Tecnológico
 
-**☁️ AWS & Cloud**  
+**AWS & Cloud**  
 ![Amazon Connect](https://img.shields.io/badge/-Amazon_Connect-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/-AWS_Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
@@ -24,13 +24,13 @@ Combino IA generativa, arquitecturas serverless y diseño centrado en el usuario
 ![AWS SAM](https://img.shields.io/badge/-AWS_SAM-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/-CloudFormation-FF4F8B?style=flat&logo=amazon-aws&logoColor=white)
 
-**🤖 Generative AI**  
+**Generative AI**  
 ![Amazon Bedrock](https://img.shields.io/badge/-Amazon_Bedrock-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Amazon Lex](https://img.shields.io/badge/-Amazon_Lex-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![RAG](https://img.shields.io/badge/-RAG-6DB33F?style=flat&logo=amazondynamodb&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-8A2BE2?style=flat&logo=openai&logoColor=white)
 
-**💻 Development**  
+**Development**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
