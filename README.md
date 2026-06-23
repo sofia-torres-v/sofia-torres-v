@@ -9,7 +9,6 @@ AWS Cloud Engineer especializada en soluciones conversacionales con Amazon Conne
 Combino IA generativa, arquitecturas serverless y diseño centrado en el usuario para construir experiencias de autoservicio y agentes virtuales escalables.
 
 📍 Lima, Perú  
-🚀 Abierta a oportunidades Cloud & AWS
 
 ---
 
