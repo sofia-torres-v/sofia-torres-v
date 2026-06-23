@@ -5,7 +5,8 @@
 
 ## AWS Cloud Engineer | Amazon Connect Specialist
 
-AWS Cloud Engineer con experiencia práctica en arquitecturas serverless e IA Generativa en AWS. Desarrollé soluciones conversacionales con Amazon Connect, Bedrock y Lex para un cliente real del sector automotriz (KIA Chile). Certificada AWS con dominio de Lambda, DynamoDB, CloudFormation y SAM. En crecimiento activo hacia migraciones y modernización cloud.
+AWS Cloud Engineer especializada en soluciones conversacionales con Amazon Connect, Amazon Q, Bedrock, Lex, Lambda y DynamoDB.
+Combino IA generativa, arquitecturas serverless y diseño centrado en el usuario para construir experiencias de autoservicio y agentes virtuales escalables.
 
 📍 Lima, Perú  
 🚀 Abierta a oportunidades Cloud & AWS
