@@ -4,11 +4,9 @@
 
 Diseño e implemento arquitecturas serverless en AWS, conectando infraestructura como código, datos y backend con flujos de voz y chat para crear soluciones de Contact Center e IA conversacional.
 
-Encuéntrame en <a href="https://www.linkedin.com/in/sofia-torres-v/" target="_blank" rel="noopener noreferrer">LinkedIn</a>.
-
 ---
 
-### ⚡ Stack Tecnológico
+### ⚡Stack Tecnológico
 
 **AWS & Cloud Backend**  
 `AWS Lambda` · `API Gateway` · `DynamoDB` · `Step Functions` · `Athena` · `Amazon S3` · `Python` · `OpenAPI`
@@ -21,4 +19,4 @@ Encuéntrame en <a href="https://www.linkedin.com/in/sofia-torres-v/" target="_b
 
 ---
 
-##### 🤝 Me apasiona compartir lo aprendido en eventos de tecnología y charlas de la comunidad AWS.
+#### 🤝 Me gusta compartir lo aprendido en eventos de tecnología y charlas de la comunidad AWS.
