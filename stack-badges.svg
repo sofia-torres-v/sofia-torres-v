@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="116" viewBox="0 0 780 116">
+<g font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="500" fill="#A855F7">
+<rect x="0.75" y="0.75" width="96.5" height="28.5" rx="7" ry="7" fill="none" stroke="#A855F7" stroke-width="1.5"/>
+<text x="49.0" y="19.5" text-anchor="middle">AWS Lambda</text>
+<rect x="107.75" y="0.75" width="103.5" height="28.5" rx="7" ry="7" fill="none" stroke="#A855F7" stroke-width="1.5"/>
+<text x="159.5" y="19.5" text-anchor="middle">API Gateway</text>
+<rect x="221.75" y="0.75" width="81.5" height="28.5" rx="7" ry="7" fill="none" stroke="#A855F7" stroke-width="1.5"/>
+<text x="262.5" y="19.5" text-anchor="middle">DynamoDB</text>
+<rect x="313.75" y="0.75" width="126.5" height="28.5" rx="7" ry="7" fill="none" stroke="#A855F7" stroke-width="1.5"/>
+<text x="377.0" y="19.5" text-anchor="middle">Step Functions</text>
+<rect x="450.75" y="0.75" width="66.5" height="28.5" rx="7" ry="7" fill="none" stroke="#A855F7" stroke-width="1.5"/>
+<text x="484.0" y="19.5" text-anchor="middle">Athena</text>
+<rect x="527.75" y="0.75" width="89.5" height="28.5" rx="7" ry="7" fill="none" stroke="#A855F7" stroke-width="1.5"/>
+<text x="572.5" y="19.5" text-anchor="middle">Amazon S3</text>
+<rect x="627.75" y="0.75" width="66.5" height="28.5" rx="7" ry="7" fill="none" stroke="#A855F7" stroke-width="1.5"/>
+<text x="661.0" y="19.5" text-anchor="middle">Python</text>
+<rect x="704.75" y="0.75" width="74.5" height="28.5" rx="7" ry="7" fill="none" stroke="#A855F7" stroke-width="1.5"/>
+<text x="742.0" y="19.5" text-anchor="middle">OpenAPI</text>
+<rect x="0.75" y="43.75" width="74.5" height="28.5" rx="7" ry="7" fill="none" stroke="#A855F7" stroke-width="1.5"/>
+<text x="38.0" y="62.5" text-anchor="middle">AWS SAM</text>
+<rect x="85.75" y="43.75" width="126.5" height="28.5" rx="7" ry="7" fill="none" stroke="#A855F7" stroke-width="1.5"/>
+<text x="149.0" y="62.5" text-anchor="middle">CloudFormation</text>
+<rect x="0.75" y="86.75" width="126.5" height="28.5" rx="7" ry="7" fill="none" stroke="#A855F7" stroke-width="1.5"/>
+<text x="64.0" y="105.5" text-anchor="middle">Amazon Connect</text>
+<rect x="137.75" y="86.75" width="118.5" height="28.5" rx="7" ry="7" fill="none" stroke="#A855F7" stroke-width="1.5"/>
+<text x="197.0" y="105.5" text-anchor="middle">Amazon Lex V2</text>
+<rect x="266.75" y="86.75" width="126.5" height="28.5" rx="7" ry="7" fill="none" stroke="#A855F7" stroke-width="1.5"/>
+<text x="330.0" y="105.5" text-anchor="middle">Amazon Bedrock</text>
+<rect x="403.75" y="86.75" width="163.5" height="28.5" rx="7" ry="7" fill="none" stroke="#A855F7" stroke-width="1.5"/>
+<text x="485.5" y="105.5" text-anchor="middle">Amazon Q in Connect</text>
+<rect x="577.75" y="86.75" width="44.5" height="28.5" rx="7" ry="7" fill="none" stroke="#A855F7" stroke-width="1.5"/>
+<text x="600.0" y="105.5" text-anchor="middle">RAG</text>
+</g>
+</svg>
