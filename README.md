@@ -16,7 +16,3 @@ Diseño e implemento arquitecturas serverless en AWS, conectando infraestructura
 
 **Contact Center & Conversational AI**  
 `Amazon Connect` · `Amazon Lex V2` · `Amazon Bedrock` · `Amazon Q in Connect` · `RAG`
-
----
-
-#### 🤝 Me gusta compartir lo aprendido en eventos de tecnología y charlas de la comunidad AWS.
