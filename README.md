@@ -1,5 +1,5 @@
 <h1 style="display: flex; align-items: center; gap: 10px;">
-  <img src="wave.gif" alt="👋" width="36" /> <font color="#A855F7">¡Hola! Soy Sofia</font>
+  <img src="wave.gif" alt="👋" width="40" /> <font color="#A855F7">¡Hola! Soy Sofia</font>
 </h1>
 
 Soy Cloud Software Engineer, con foco en Amazon Connect. Diseño e implemento arquitecturas serverless en AWS, conectando infraestructura como código, datos y backend con flujos de voz y chat para crear soluciones de Contact Center e IA conversacional.
