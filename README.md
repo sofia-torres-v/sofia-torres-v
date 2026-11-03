@@ -7,12 +7,10 @@ Soy Cloud Software Engineer, con foco en Amazon Connect. Diseño e implemento ar
 
 ---
 
-## Stack tecnológico
+### Stack tecnológico
 
 <img src="./stack-badges.svg" alt="AWS, Cloud Backend, Infrastructure as Code y Contact Center & Conversational AI" />
 
 ---
 
-### 💛 Me gusta compartir lo aprendido en charlas y artículos de la comunidad AWS.
-
-[LinkedIn](https://www.linkedin.com/in/sofia-torres-v/) .  [dev.to](https://dev.to/sofia_torresvilca_10ed7f)
+Me gusta compartir lo aprendido en charlas y artículos de la comunidad AWS. ¡Conectémos! ✨ [LinkedIn](https://www.linkedin.com/in/sofia-torres-v/) .  [dev.to](https://dev.to/sofia_torresvilca_10ed7f)
