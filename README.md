@@ -3,7 +3,7 @@
   <font color="#A855F7">¡Hola! Soy Sofia</font>
 </h1>
 
-Soy Cloud Software Engineer, con foco en Amazon Connect. Diseño e implemento arquitecturas serverless en AWS, conectando infraestructura como código, datos y backend con flujos de voz y chat para crear soluciones de Contact Center e IA conversacional.
+Cloud Software Engineer, con foco en Amazon Connect. Diseño e implemento arquitecturas serverless en AWS, conectando infraestructura como código, datos y backend con flujos de voz y chat para crear soluciones de Contact Center e IA conversacional.
 
 ---
 
